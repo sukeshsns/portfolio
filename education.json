@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "category": "training",
+    "institution": "NOREC (Norwegian Agency for Exchange Cooperation)",
+    "degree": "Norec's Preparatory Training Program",
+    "period": "February 2023",
+    "location": "Kathmandu, Nepal",
+    "description": "I completed Norec’s one-week Preparatory Training in Kathmandu, Nepal, ahead of my professional exchange to Norway. The program, organized by Norec—a governmental body under the Norwegian Ministry of Foreign Affairs—focused on global understanding, intercultural communication, sustainable development, and the Norec model of mutual exchange. It brought together participants from organizations across Norway, Asia, Africa, and Latin America to prepare us for working and learning effectively in a new cultural and professional context.",
+    "highlights": [
+      "Intercultural Communication",
+      "Global Understanding",
+      "Sustainable Development Goals (SDGs)",
+      "NOREC Model for Development Cooperation"
+    ],
+    "certificateUrl": "https://drive.google.com/file/d/1eI4TiyPvF234NR6qkyA5Ki20hyt4gFL1/view?usp=sharing"
+  },
+  {
+    "id": 2,
+    "category": "academic",
+    "institution": "NIT Durgapur (National Institute of Technology)",
+    "degree": "B.Tech in Biotechnology",
+    "period": "July 2016 - September 2020",
+    "location": "India",
+    "description": "Bachelor's degree with major in Bioinformatics and active involvement in technology management.",
+    "highlights": [
+      "Major in Bioinformatics",
+      "Travel award for computational biology conference",
+      "Executive member of Techno-management club",
+      "Active member of Biotech Club"
+    ]
+  },
+  {
+    "id": 3,
+    "category": "online",
+    "institution": "University of London",
+    "degree": "Professional Skills for International Business",
+    "period": "April 2021",
+    "location": "Online",
+    "description": "Specialized training in business and stakeholder management for international contexts.",
+    "highlights": [
+      "Professional Networking",
+      "Stakeholder Management",
+      "Relationship Management",
+      "Communication Strategies"
+    ],
+    "certificateUrl": "https://coursera.org/share/1fc5cee196e3bb61ba2e16be0b741f88"
+  },
+   {
+    "id": 4,
+    "category": "training",
+    "institution": "NOREC (Norwegian Agency for Exchange Cooperation)",
+    "degree": "Norec's Homecoming Training Program",
+    "period": "February 2024",
+    "location": "Kathmandu, Nepal",
+    "description": "After nearly a year of working in Norway with Zabai AS through the Norec exchange program, I attended Norec’s mandatory one-week Homecoming Training in Kathmandu, following a digital pre-training. The course focused on recognizing and reflecting on the results achieved and competences acquired during the exchange, and on how to communicate and apply these experiences back home. Through modules on communicating the exchange, identifying new learning, navigating the challenges and opportunities of returning, and thematic workshops, I developed a clearer plan for sharing my insights and contributing to my home organization.",
+    "highlights": [
+      "Re-entry reflection",
+      "Competence mapping",
+      "Communicating impact",
+      "Returning home: challenges & opportunities",
+      "Thematic workshops"
+    ],
+    "certificateUrl": "https://drive.google.com/file/d/1F5XvuWVsxasvv3YeUIktEFbZORRIf23s/view?usp=sharing"
+  },
+  {
+    "id": 5,
+    "category": "online",
+    "institution": "University of Illinois Urbana-Champaign",
+    "degree": "e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age",
+    "period": "June 2025",
+    "location": "Online",
+    "description": "I completed a course on e-learning ecologies that explored how technology can genuinely transform, rather than simply digitize, education. It focused on seven key affordances—ubiquitous learning, active knowledge making, multimodal meaning, recursive feedback, collaborative intelligence, metacognition, and differentiated learning—and how these can be used to design effective, digitally rich learning experiences.",
+    "highlights": [
+      "Education Software and Technology",
+      "Digital Transformation",
+      "Differentiated Instruction",
+      "Emerging Technologies",
+      "Innovation in Education"
+    ],
+    "certificateUrl": "https://coursera.org/share/8dcb14a24daf408b711dbd038e7ceb85"
+  },
+  {
+    "id": 6,
+    "category": "online",
+    "institution": "Google",
+    "degree": "Foundations of Project Management",
+    "period": "November 2021",
+    "location": "Online",
+    "description": "Successfully completed the first course in the Google Project Management Certificate, gaining foundational knowledge of project management concepts, terminology, and the project life cycle. The course covered core project manager responsibilities and skills, common methodologies, organizational structure and culture, and change management, helping to build readiness for entry-level project management roles across industries.",
+    "highlights": [
+      "Organizational Change",
+      "Project Management Life Cycle",
+      "Change Management",
+      "Project Planning",
+      "Strategic Thinking"
+    ],
+    "certificateUrl": "https://coursera.org/share/e72a9c1f37b4f719fc4a99f13141c6a8"
+  },
+    {
+    "id": 7,
+    "category": "training",
+    "institution": "Alfaskolen",
+    "degree": "Norwegian Language Training A0–A1",
+    "period": "Oct-December 2023",
+    "location": "Oslo, Norway",
+    "description": "",
+    "highlights": [
+      "Norwegian language A0–A1",
+      "Adult immigration education",
+      "48-hour certified course",
+      "Basic communication skills in Norwegian"
+    ],
+    "certificateUrl": "https://drive.google.com/file/d/1H4nhY5Fobgb3zIpD7or-BRcWFnPcIC6P/view?usp=drive_link"
+  },
+    {
+    "id": 8,
+    "category": "online",
+    "institution": "Google",
+    "degree": "Foundations of Cybersecurity",
+    "period": "February 2025",
+    "location": "Online",
+    "description": "Completed the first course in the Google Cybersecurity Certificate, gaining an overview of the cybersecurity field, key threats, and their impact on organizations. The course covered core responsibilities and skills of entry-level cybersecurity analysts, the CISSP eight security domains, common security frameworks and controls, the CIA triad, security ethics, and commonly used analyst tools, building a foundation for pursuing entry-level roles in cybersecurity.",
+    "highlights": [
+      "Security Information and Event Management (SIEM)",
+      "Cyber Security Strategy",
+      "Ethical Standards And Conduct",
+      "Network Analysis"
+    ],
+    "certificateUrl": "https://coursera.org/share/8c83f07b427d6922cc66bc41aaa01a35"
+  }
+]

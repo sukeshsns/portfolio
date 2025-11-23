@@ -1,0 +1,38 @@
+[
+  {
+    "image": "./images/sukeshnandan-validationworkshop-savethechildren.webp",
+    "caption": "Curriculum development validation workshop",
+    "description": "",
+    "location": "Cox's Bazar, Bangladesh"
+  },
+  {
+    "image": "./images/sukeshnandan-norecexchange.webp",
+    "caption": "NOREC Homecoming training session",
+    "description": "",
+    "location": "Kathmandu, Nepal"
+  },
+  {
+    "image": "./images/sukeshnandan-zabaiteam.webp",
+    "caption": "Zabai Norway & Bangladesh team collaboration",
+    "description": "",
+    "location": "Oslo, Norway"
+  },
+  {
+    "image": "./images/sukeshnandan-norecteam.webp",
+    "caption": "NOREC - Zabai Collaboration",
+    "description": "",
+    "location": "Kathmandu, Nepal"
+  },
+  {
+    "image": "./images/sukeshnandan-unicef.jpeg",
+    "caption": "Facilitating Validation Workshop",
+    "description": "",
+    "location": "Dhaka, Bangladesh"
+  },
+  {
+    "image": "./images/sukeshnandan-aarohan.jpg",
+    "caption": "Tech-Management fest, Aarohan 2020",
+    "description": "",
+    "location": "West Bengal, India"
+  }
+]

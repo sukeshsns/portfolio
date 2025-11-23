@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "title": "Passport to Earning (P2E)",
+    "shortDescription": "Digital learning content for youth employment and entrepreneurship BY UNICEF",
+    "fullDescription": "The UNICEF Passport to Earning (P2E) initiative focuses on developing and localizing digital learning content to equip youth with employment and entrepreneurship skills. The project delivers interactive, culturally relevant courses aligned with local educational needs, integrating Environmental Awareness modules within entrepreneurship training to promote climate-conscious thinking and sustainable skill development among young learners",
+    "image": "./images/sukeshnandan-unicef.webp",
+    "technologies": [
+      "UNICEF",
+      "eLearning Design",
+      "Youth Employment",
+      "Entrepreneurship",
+      "Employbility Training",
+      "Education",
+      "Climate Change"
+    ],
+    "liveUrl": "https://bangladesh.passport2earning.org/",
+    "highlights": [
+      "Led development of 3 interactive digital courses for youth employment",
+      "Integrated Environmental Awareness modules into entrepreneurship training",
+      "Coordinated cross-functional teams ensuring quality outcomes",
+      "Conducted 2 rigorous workshops to align content with local educational needs and cultural context",
+      "Embedded climate-conscious thinking into skill development programs"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Accelerated Learning Programme 3",
+    "shortDescription": "Curriculum development for displaced Rohingya youth in Cox's Bazar by Save the Children",
+    "fullDescription": "In the ALP 3 initiative for displaced Rohingya youth in Cox's Bazar, I led curriculum analysis, content mapping, and instructional design for grades 6–8. My work ensured alignment with Myanmar's education standards and cultural context. I also managed translation and localization of materials and coordinated quality assurance with the SCI technical team. While not climate-specific, the project builds long-term resilience in a region highly vulnerable to climate change.",
+    "image": "./images/sukeshnandan--savethechildren.webp",
+    "technologies": [
+      "Save the children",
+      "Curriculum Development",
+      "Cross-cultural leadership",
+      "Curriculum mapping & condensation",
+      "Stakeholder communication",
+      "Validation & quality assurance",
+      "Education"
+    ],
+    "liveUrl": "https://www.savethechildren.org/",
+    "highlights": [
+      "Led cross-functional team delivering ALP3 Year 1-2 materials on time.",
+      "Coordinated curriculum mapping, condensation, translation, and inclusive design reviews.",
+      "Managed schedule, risks, and SCI communication; implemented centralized feedback loop.",
+      "Delivered 56 books plus supplementary materials, bilingual, accessibility-compliant for deployment.",
+      "Achieved validation readiness; maintained inventory tracking, review metrics, quality thresholds."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Southeast Education Digital Learning Initiative",
+    "shortDescription": "Funded by the Norwegian Agency for Exchange Cooperation (NOREC)",
+    "fullDescription": "The Southeast Education Digital Learning Initiative, funded by the Norwegian Agency for Exchange Cooperation (NOREC) under NORAD, aims to develop lightweight, accessible e-learning solutions for underserved communities in Bangladesh, Myanmar, and Ethiopia. The project addresses challenges of low IT infrastructure and digital literacy through sustainable and inclusive digital platforms. Through NOREC exchange programs, teams from Zabai Norway and Zabai Bangladesh collaborated to combine technical and pedagogical expertise, fostering intercultural understanding and global cooperation. This partnership supports NOREC’s mission to create scalable, context-appropriate digital education tools that empower youth in developing regions.",
+    "image": "./images/sukeshnandan-norec.webp",
+    "technologies": [
+      "NOREC",
+      "eLearning Platforms",
+      "eLearning Design",
+      "Digital Inclusion",
+      "Sustainable Development",
+      "Intercultural Collaboration",
+      "UI/UX",
+      "Digital Media"
+    ],
+    "liveUrl": "https://zabai.org/en/about-us/news-insights/zabai-norec-partnership/",
+    "highlights": [
+      "Designed UIs and improved 30% user retention through research",
+      "Implemented accessible learning design principles",
+      "Coordinated with cross-functional international teams",
+      "Spent one year in Norway as a NOREC exchange participant, gaining hands-on experience in intercultural collaboration and sustainable development",
+      "Platform further secured $0.3 million funding through grant proposals"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Digitla Media production Aarohan-NITDGP",
+    "shortDescription": "Design projects for techno-management festival-Aarohan at NIT Durgapur",
+    "fullDescription": "Led the end-to-end digital media production for Aarohan, the techno-management festival of NIT Durgapur, overseeing graphic design, UI/UX for event touchpoints, and video content creation to support marketing, live sessions, and post-event storytelling. Collaborated with cross-functional teams to translate event concepts into cohesive visual narratives, optimized digital assets for multiple platforms, and ensured all branding, schedules, and event information were communicated clearly and engagingly to participants, sponsors, and campus communities.",
+    "image": "./images/sukeshnandan-aarohan.webp",
+    "technologies": [
+      "Aarohan NITDGP",
+      "Graphic Design",
+      "UI/UX",
+      "Video Production",
+      "Team leadership",
+      "technology festival",
+      "Event Management",
+      "Digital Media"
+    ],
+    "liveUrl": "https://www.behance.net/sukeshnandan",
+    "highlights": [
+      "Led a creative team delivering graphics and social media creatives for Aarohan NITDGP.",
+      "Designed UI/UX for event-related digital touchpoints (registration, schedules, info pages).",
+      "Produced and edited promotional and aftermovies for flagship events.",
+      "Maintained consistent digital branding across print, web, and video formats."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Shamortha Plus - Migrant Workers Program",
+    "shortDescription": "USAID education and support program for migrant workers",
+    "fullDescription": "Managed the Shamortha Plus project under USAID, providing education and skill development programs for migrant workers. Focused on creating accessible learning pathways, improving digital literacy, and supporting workforce integration for migrant communities.",
+    "image": "./images/sukeshnandan-helvetas.webp",
+    "technologies": [
+      "USAID",
+      "Skills Development",
+      "Course Design",
+      "Digital Literacy",
+      "Migrant Education",
+      "Education"
+    ],
+    "liveUrl": "https://www.usaid.gov/",
+    "highlights": [
+      "Provided skills training for 500+ of migrant workers",
+      "Designed 2 full length courses based market research",
+      "Improved digital literacy and employment outcomes",
+      "Built partnerships with local organizations and employers"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Modern Endangered Archive Website of Moulana Bhashani",
+    "shortDescription": "A project funded by Dr. Layli Uddin - Queen Mary University of London",
+    "fullDescription": "The Modern Endangered Archive Website digitally preserves Moulana Bhashani’s legacy through a secure, bilingual platform featuring rare letters, newspapers, and media, with curator tools, access control, and a minimalist, accessible design.",
+    "image": "./images/sukeshnandan-queenmaryuniversity.webp",
+    "technologies": [
+      "Web Development Supervision",
+      "Digital Preservation",
+      "Cultural Archiving",
+      "Secure Digital Access",
+      "Localization",
+      "Digital Media"
+    ],
+    "liveUrl": "https://meap.library.ucla.edu/projects/the-maulana-bhashani-archives/",
+    "highlights": [
+      "Selected scalable development framework ensuring long-term stability and performance.",
+      "Supervised end-to-end UX/UI design for bilingual accessibility.",
+      "Oversaw secure content management workflows and curator admin panel design",
+      "Coordinated cross-team publishing, testing, and deployment of archive platform.",
+      "Managed stakeholders, aligning technical execution with preservation and accessibility goals."
+    ]
+  }
+]

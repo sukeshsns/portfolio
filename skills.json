@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Languages",
+    "skills": ["Bangla (Native)", "English (C1)", "Hindi (Spoken)", "Norsk (A1)"]
+  },
+  {
+    "title": "Core Competencies",
+    "skills": [
+      "Proposal Writing",
+      "Intercultural Communication",
+      "Stakeholder Management",
+      "eLearning",
+      "Documentation",
+      "Requirement Analysis",
+      "Curriculum Management"
+    ]
+  },
+  {
+    "title": "Tech & Tools",
+    "skills": [
+      "Figma",
+      "Tableau",
+      "Microsoft Office Suite",
+      "Multimedia Tools",
+      "LMS",
+      "Adobe Creative Suite",
+      "VS Code"
+    ]
+  },
+  {
+    "title": "Professional Skills",
+    "skills": [
+      "Interaction Design",
+      "Conflict Resolution",
+      "Business Analysis",
+      "Product Management",
+      "Team Leadership",
+      "Cross-functional Coordination"
+    ]
+  }
+]

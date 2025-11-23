@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Zabai Norec Partnership",
+    "description": "The NOREC Preparatory Training held in Kathmandu, was a six-day immersive experience focused on enhancing the skills and knowledge of participants involved in international development projects.",
+    "image": "./images/sukeshnandan-norecpartnership.webp",
+    "platform": "Zabai Platform",
+    "publishedDate": "March 2023",
+    "externalLink": "https://zabai.org/en/about-us/news-insights/zabai-norec-partnership/"
+  },
+  {
+    "title": "A Humatarian Alarm in Cox's Bazar",
+    "description": "Exploring the challenges faced by Rohingya refugees in Bangladesh and the urgent need for sustainable solutions to address their plight.",
+    "image": "./images/sukeshnandan-rohingyacamp.webp",
+    "platform": "Change the Chamber",
+    "publishedDate": "November 2025",
+    "externalLink": "https://www.changethechamber.org/"
+  },
+  {
+    "title": "Zabai And Swisscontact ASTHA, aiming to empower Community Paramedics",
+    "description": "A collaborative initiative between Zabai and Swisscontact ASTHA to enhance the skills and capabilities of community paramedics, ultimately improving healthcare access in underserved regions.",
+    "image": "./images/sukeshnandan-swisscontact.webp",
+    "platform": "Zabai Platform",
+    "publishedDate": "April 2023",
+    "externalLink": "https://zabai.org/en/about-us/news-insights/zabai-and-swisscontact-astha-aiming-to-empower-community-paramedics/"
+  }
+]

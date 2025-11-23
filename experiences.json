@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "company": "The U.S. Partnership for Education for Sustainable Development",
+    "position": "International Fellow",
+    "period": "July 2025 - Present",
+    "location": "United States (Remote)",
+    "description": "Contributed in fundraising, research, and program development to support climate advocay and sustainable development.",
+    "achievements": [
+      "Analyze and compile grant opportunities for the youth sector, Change The Chamber-Lobby For Climate",
+      "Write articles on international issues for OP-ED publication",
+      "Spearhead and facilitate monthly cross-team leadership meetings to define annual organizational goals"
+    ]
+  },
+  {
+    "id": 2,
+    "company": "Zabai",
+    "position": "Project Manager",
+    "period": "March 2022 - Present",
+    "location": "Norway, Myanmar, Bangladesh",
+    "description": "Leading education development projects across Norway, Myanmar and Bangladesh under NOREC Exchange program. Managing strategic partnerships with international organizations.",
+    "achievements": [
+      "Acquired 2.5 million NOK NOREC Grant proposal for technical initiatives",
+      "Designed 4 self-paced and 2 blended training courses",
+      "Built and sustained strategic partnerships with Save the Children International and UNICEF",
+      "Coordinated cross-functional teams enhancing efficiency and productivity across 4 projects",
+      "Served clients including SCI, Swisscontact, Helvetas, UNOPS, BDRCS, and UNICEF"
+    ]
+  },
+  {
+    "id": 3,
+    "company": "Shunya Impact Limited",
+    "position": "Product Engineer (Internship)",
+    "period": "October 2020 - December 2020",
+    "location": "India (Remote)",
+    "description": "Contributed to K12 education technology solutions and supported startup growth initiatives.",
+    "achievements": [
+      "Redesigned UX/UI for K12 Learning application improving user engagement",
+      "Created design mockups for startup's pitch to international funders",
+      "Developed campaign strategies for educational initiatives"
+    ]
+  },
+  {
+    "id": 4,
+    "company": "Centre for Cognitive Activities",
+    "position": "Head of Production (Part-time)",
+    "period": "May 2017 - April 2020",
+    "location": "West Bengal, India",
+    "description": "Managed digital media production and institutional partnerships for educational events and initiatives.",
+    "achievements": [
+      "Supervised a 15-member digital and print media team",
+      "Integrated digital marketing techniques for engagement",
+      "Organized 3 yearly Tech-management festivals",
+      "Initiated and coordinated cross-institutional partnerships"
+    ]
+  }
+]
